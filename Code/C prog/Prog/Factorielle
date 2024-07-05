@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main( void) 
+{
+	puts("Entre un nombre bs")
+	scanf("%d", &x);
+	

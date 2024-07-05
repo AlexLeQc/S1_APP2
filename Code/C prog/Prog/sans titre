@@ -1,0 +1,9 @@
+float puissance(unsigned int n, float x)
+{
+	float p = 1;
+	while (n > 0)
+	{
+		p = p * x;
+		n--;
+	}
+	return p;
